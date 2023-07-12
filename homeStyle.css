@@ -1,0 +1,35 @@
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #4b6eb4;
+  }
+  
+
+.addSection{
+  width: 80%;
+  height: 800px;
+  background-color: #ccc;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  border: 4px black solid;
+}
+
+
+#content{
+      width: 100%;
+      height: 800px;
+      background-color: #ccc;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      border-radius: 25px;
+      border: 4px black solid;
+}
